@@ -43,7 +43,8 @@ struct Story : Codable {
 		case type = "type"
 		case url = "url"
 	}
-//
+
+
     /// Initializes all properties with nil 
     ///
     ///
